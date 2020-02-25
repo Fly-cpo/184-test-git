@@ -9,6 +9,10 @@ class ApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("aaaaaa");
+
+        System.out.println("bbbbbbb");
+        int a = 0;
+        
     }
 
 }
